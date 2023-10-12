@@ -1,5 +1,20 @@
-template-repository (1.0-1) unstable; urgency=medium
+libtest-randomresult-perl (0.001-3) unstable; urgency=low
 
-  * Initial release
+  [ Debian Janitor ]
+  * Update standards version to 4.5.0, no changes needed.
+  * Bump debhelper from old 12 to 13.
+  * Update standards version to 4.6.0, no changes needed.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Thu, 30 Jun 2022 09:24:06 +0100
+
+libtest-randomresult-perl (0.001-2) unstable; urgency=medium
+
+  * Source-only no-change re-upload.
+
+ -- gregor herrmann <gregoa@debian.org>  Tue, 12 Nov 2019 17:48:10 +0100
+
+libtest-randomresult-perl (0.001-1) unstable; urgency=low
+
+  * Initial release (closes: #944057).
+
+ -- gregor herrmann <gregoa@debian.org>  Sun, 03 Nov 2019 15:21:35 +0100
